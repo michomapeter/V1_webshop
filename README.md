@@ -1,2 +1,2 @@
 # AngularWebshop
-Websgop ecommerce store using Angular/Typescript ,Express js and Stripe
+Webshop ecommerce store using Angular/Typescript ,Express js and Stripe
