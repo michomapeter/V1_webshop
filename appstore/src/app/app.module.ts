@@ -19,12 +19,14 @@ import {MatListModule} from '@angular/material/list';
 import { HeaderComponent } from './components/header/header.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ProductsHeaderComponent } from './pages/home/components/products-header/products-header.component';
+import { FiltresComponent } from './pages/home/components/filtres/filtres.component';
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     HomeComponent,
     ProductsHeaderComponent,
+    FiltresComponent,
   ],
   imports: [
     BrowserModule,
