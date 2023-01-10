@@ -20,6 +20,8 @@ import { HeaderComponent } from './components/header/header.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ProductsHeaderComponent } from './pages/home/components/products-header/products-header.component';
 import { FiltresComponent } from './pages/home/components/filtres/filtres.component';
+import { ProductBoxComponent } from './pages/home/components/product-box/product-box.component';
+import { CartComponent } from './pages/cart/cart.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -27,6 +29,8 @@ import { FiltresComponent } from './pages/home/components/filtres/filtres.compon
     HomeComponent,
     ProductsHeaderComponent,
     FiltresComponent,
+    ProductBoxComponent,
+    CartComponent,
   ],
   imports: [
     BrowserModule,
